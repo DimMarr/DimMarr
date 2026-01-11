@@ -1,31 +1,74 @@
-# Bonjour, je suis Martel Dimitri 👋
+# Hi 👋! My name is Dimitri Martel
 
-> Apprenti Ingénieur DevOps passionné par l'automatisation et l'infrastructure Cloud.
+***Apprentice DevOps Engineer passionate about automation and Cloud infrastructure.***
 
-### 🚀 Ce que je fais
-Je suis actuellement **Ingénieur DevOps en apprentissage** à **Polytech Montpellier**.
 
-Je travaille en alternance pour l'entreprise **Geomatys**, où j'administre l'ensemble de l'infrastructure **Kubernetes**. J'aide à construire des architectures scalables et à assurer la fiabilité des déploiements.
+<h2 align="center">🚀 About Me</h2>
+<p align="justify">
+I am currently an <b>Apprentice DevOps Engineer</b> at <b>Polytech Montpellier</b>. 
+I work at <a href="https://www.geomatys.com/"><b>Geomatys</b></a>, where I manage and maintain the entire <b>Kubernetes</b> infrastructure. I help build scalable architectures to ensure deployment reliability and performance.
+</p>
 
-### 🛠️ Ma Stack Technique
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<br />
 
-### 📊 Mes Stats GitHub
+<h2 align="center">⚡️ Quick Facts</h2>
+
+- 💼 **Current Role:** DevOps Apprentice at Geomatys.
+- 🎓 **Education:** Engineering Degree at Polytech Montpellier (DevOps specialization).
+- ☁️ **Focus:** Managing Kubernetes clusters, Automation, and Scalability.
+- 📫 **Contact:** [martel.dimitri34@gmail.com](mailto:martel.dimitri34@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dimitrimartel).
+
+<br />
+
+### ☁️ Infrastructure & Cloud
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/helm/0F1689" height="40" alt="helm logo" />
+</div>
+
+### 💻 Scripting & System
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
+
+### 📈 Monitoring & Data
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+</div>
+
+<br />
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimMarr&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimMarr&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DimMarr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimMarr&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimMarr&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimMarr&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak graph" />
 </div>
 
-### 📫 Contact
-Si vous souhaitez discuter :
-* **Email** : [martel.dimitri34@gmail.com](mailto:martel.dimitri34@gmail.com)
-* **LinkedIn** : [linkedin.com/in/dimitrimartel](https://www.linkedin.com/in/dimitrimartel)
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DimMarr&color=blue&style=flat-square&abbreviated=true" alt="visitor counter"/>
+</div>
