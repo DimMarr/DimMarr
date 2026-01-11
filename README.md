@@ -11,14 +11,14 @@ I work at <a href="https://www.geomatys.com/"><b>Geomatys</b></a>, where I manag
 
 <br />
 
-<h2 align="center">⚡️ Quick Facts</h2>
-
 - 💼 **Current Role:** DevOps Apprentice at Geomatys.
 - 🎓 **Education:** Engineering Degree at Polytech Montpellier (DevOps specialization).
 - ☁️ **Focus:** Managing Kubernetes clusters, Automation, and Scalability.
 - 📫 **Contact:** [martel.dimitri34@gmail.com](mailto:martel.dimitri34@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dimitrimartel).
 
 <br />
+
+<h2 align="center">🛠️ Skills</h2>
 
 ### ☁️ Infrastructure & Cloud
 
@@ -27,7 +27,7 @@ I work at <a href="https://www.geomatys.com/"><b>Geomatys</b></a>, where I manag
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" height="40" alt="aws logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/helm/0F1689" height="40" alt="helm logo" />
 </div>
@@ -56,19 +56,6 @@ I work at <a href="https://www.geomatys.com/"><b>Geomatys</b></a>, where I manag
 
 <br />
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimMarr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimMarr&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DimMarr&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak graph" />
-</div>
-
-<br />
-
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=DimMarr&color=blue&style=flat-square&abbreviated=true" alt="visitor counter"/>
 </div>
