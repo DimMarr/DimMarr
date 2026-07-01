@@ -1,61 +1,56 @@
-# Hi 👋! My name is Dimitri Martel
+# Hi 👋, I'm Dimitri Martel
 
-***Apprentice DevOps Engineer passionate about automation and Cloud infrastructure.***
+***Apprentice DevOps & Systems Engineer passionate about automation, low-level development, and Cloud infrastructure.***
 
+---
 
-<h2 align="center">🚀 About Me</h2>
-<p align="justify">
-I am currently an <b>Apprentice DevOps Engineer</b> at <b>Polytech Montpellier</b>. 
-I work at <a href="https://www.geomatys.com/"><b>Geomatys</b></a>, where I manage and maintain the entire <b>Kubernetes</b> infrastructure. I help build scalable architectures to ensure deployment reliability and performance.
-</p>
+## 🚀 About Me
 
-<br />
+I am currently an **Apprentice DevOps Engineer** studying at **Polytech Montpellier** and working at [**Geomatys**](https://www.geomatys.com/). 
+
+At Geomatys, I manage and maintain our entire **Kubernetes** infrastructure, building scalable architectures to ensure deployment reliability and high performance. 
+
+Lately, I've been diving deep into **low-level systems and networking**, which led me to develop with **Rust**. I am currently co-developing [**Barenetes**](https://github.com/do-2k25-28/Barenetes), a custom container orchestrator built from scratch.
 
 - 💼 **Current Role:** DevOps Apprentice at Geomatys.
-- 🎓 **Education:** Engineering Degree at Polytech Montpellier (DevOps specialization).
-- ☁️ **Focus:** Managing Kubernetes clusters, Automation, and Scalability.
+- 🎓 **Education:** Engineering Degree at Polytech Montpellier (DevOps & Systems).
+- 🦀 **Current Focus:** Rust, Systems programming, Networking, and Kubernetes.
 - 📫 **Contact:** [martel.dimitri34@gmail.com](mailto:martel.dimitri34@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dimitrimartel).
 
-<br />
+---
 
-<h2 align="center">🛠️ Skills</h2>
+## 🏗️ Featured Project
 
-### ☁️ Infrastructure & Cloud
+### 🦀 [Barenetes](https://github.com/do-2k25-28/Barenetes)
+A lightweight container orchestrator written in **Rust** to understand the low-level mechanics of containerization, systems, and networking.
+*   **Key concepts:** Linux cgroups/namespaces, container runtimes, custom networking, and systems programming.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/helm/0F1689" height="40" alt="helm logo" />
-</div>
+---
 
-### 💻 Scripting & System
+## 🛠️ Skills
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-</div>
+### ☁️ Cloud & Orchestration
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### 💻 Systems, Networking & Languages
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📈 Monitoring & Data
+![](https://img.shields.io/badge/Prometheus-E6522D?style=for-the-badge&logo=prometheus&logoColor=white)
+![](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-</div>
+---
 
 <br />
 
-<div align="left">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=DimMarr&color=blue&style=flat-square&abbreviated=true" alt="visitor counter"/>
 </div>
