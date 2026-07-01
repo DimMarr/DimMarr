@@ -8,15 +8,15 @@
 
 I am currently an **Apprentice DevOps & Systems Engineer** studying at **Polytech Montpellier** and working at [**Geomatys**](https://www.geomatys.com/). 
 
-At Geomatys, I am responsible for managing, maintaining, and automating our entire production infrastructure, which includes:
-*   **Orchestration:** Managing and maintaining our full **Kubernetes** clusters to ensure scalable and reliable deployments.
-*   **Bare-Metal Infrastructure:** Handling physical infrastructure on-premise, from provisioning and maintaining **servers** to configuring **routers, switches,** and managing full network topologies.
+At Geomatys, I am responsible for managing, maintaining, and automating our **hybrid infrastructure** (comprising on-premise hardware and sovereign cloud deployments):
+*   **Orchestration & Hybrid Cloud:** Managing and maintaining our **Kubernetes** clusters across physical environments and secure **sovereign cloud** platforms to ensure scalable, compliant, and reliable deployments.
+*   **Bare-Metal Infrastructure:** Handling physical infrastructure on-premise, from provisioning and maintaining **servers** to configuring **routers, switches**, and managing full network topologies.
 
 Deeply interested in low-level systems and networking, I love building things from scratch and **contributing to open-source software**. I am currently co-developing [**Barenetes**](https://github.com/do-2k25-28/Barenetes), a custom container orchestrator written in **Rust** to better understand the core mechanics of containerization and Linux internals.
 
 - 💼 **Current Role:** DevOps & Systems Apprentice at Geomatys.
 - 🎓 **Education:** Engineering Degree at Polytech Montpellier (DevOps & Systems).
-- 🦀 **Current Focus:** Rust, Bare-Metal Infrastructure, Networking, and Kubernetes.
+- 🦀 **Current Focus:** Rust, Bare-Metal Infrastructure, Hybrid Cloud, and Kubernetes.
 - 🌍 **Open-Source:** Active contributor to community-driven projects.
 - 📫 **Contact:** [martel.dimitri34@gmail.com](mailto:martel.dimitri34@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dimitrimartel).
 
